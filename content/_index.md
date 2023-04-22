@@ -20,4 +20,4 @@ To split oneself among however many individuals, to let the mind drift and diver
 * "Earthbound" *by Kergiby*
 * "Cascade Failure" *by Joel Kreissman*
 
-*Coming mid 2023*
+*Coming August 1, 2023*
