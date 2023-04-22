@@ -3,7 +3,7 @@
 
 ![Clade cover](/cover.png)
 
-> **Clade** *(n)* – /klɛ:id/ – *post-self theory*  
+> **Clade** *(n)* – <span class="ipa">/kleɪd/</span> – *post-self theory*  
 > A group of individuals patterned off a single root consciousness, formed through branching expansion of the forking of its constituent members.  
 > *See also: cladistics, cocladist, up-/down-/cross-tree instance, forking, post-self theory.*  
 > — The System Central Library Encyclopedia

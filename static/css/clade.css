@@ -1,7 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Gotu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gotu&family=Noto+Sans+Mono&display=swap');
 
-body main {
-    font-family: "Gentium Basic", serif;
+main {
+    font-family: "Gentium Plus", sans-serif;
+}
+
+.ipa {
+    font-family: "Noto Sans Mono", monospace;
+    font-size: 14pt;
+    font-style: normal;
 }
 
 h1, h2 {
@@ -10,6 +16,7 @@ h1, h2 {
 
 blockquote {
     overflow-wrap: break-word;
+    text-justify: none;
 }
 
 ul {
