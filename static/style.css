@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Gotu&display=swap');
+
+/* Legacy style for clade listings */
+
+header, body, footer {
+    max-width: 960px;
+    padding: 1rem;
+    margin: 0 auto;
+}
+
+header, footer {
+    font-family: "Gotu", sans-serif;
+}
+
+header {
+    border-bottom: 1px dotted black;
+    margin-bottom: 1rem;
+    padding-bottom: 0rem;
+}
+
+footer {
+    margin-top: 1rem;
+    padding-top: 0rem;
+    border-top: 1px dotted black;
+}
+
+main {
+    font-family: "Gentium Basic", serif;
+}
+
+h1 span {
+    display: block;
+    font-size: 80%;
+}
+
+ul.clade > li {
+    list-style-type: '\251C';
+    padding-left: 0.5rem;
+    margin-left: 0rem;
+}
+
+ul.clade > li:last-of-type {
+    list-style-type: '\2514';
+}
+
+ul.clade li ul.clade {
+    padding-left: 1rem;
+    margin-left: calc(-1rem + 1pt);
+    border-left: 2pt dotted black;
+}
+
+ul.clade li:last-of-type > ul.clade {
+    margin-left: calc(-1rem + 2pt);
+    border-left: none;
+}
+
+div.notification {
+    padding: 1rem;
+    background-color: #feeeee;
+    border: 2px solid #fddddd;
+    border-radius: 2px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+thead {
+    background-color: #eeeeee;
+}
