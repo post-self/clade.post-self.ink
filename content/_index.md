@@ -14,7 +14,7 @@ To split oneself among however many individuals, to let the mind drift and diver
 * "Genre Clade" *by Nathan "Domus Vocis" Hopp*
 * "Après un rêve" *by Madison Scott-Clary*
 * "Support Group for Anomalies in Forking" *by Michael Miele*
-* "Cowboy" *by TBD*
+* "Cowboy" *by Alexandria Christina Leal*
 * "True Love Lies Within and Without" *by Thomas "Faux" Steele*
 * "The Big O" *by Evan Drake*
 * "She Who Haunts the Storm" *by JS Hawthorne*
