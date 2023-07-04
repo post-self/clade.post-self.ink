@@ -3,6 +3,11 @@
 
 ![Clade cover](/cover.png)
 
+<p class="buy">
+<a href="https://makyo-ink.square.site/product/clade-a-post-self-anthology/15?cp=true&sa=true&sbp=false&q=false" target="_blank">Pre-order paperback</a>
+<a href="https://makyo.itch.io/clade">Pre-order ebook</a>
+</p>
+
 > **Clade** *(n)* – <span class="ipa">/kleɪd/</span> – *post-self theory*  
 > A group of individuals patterned off a single root consciousness, formed through branching expansion of the forking of its constituent members.  
 > *See also: cladistics, cocladist, up-/down-/cross-tree instance, forking, post-self theory.*  
