@@ -55,3 +55,7 @@ figcaption {
     opacity: 0.9;
     font-size: 50%;
 }
+main.story .author, main.story .character, main.story h3 {
+    font-family: "Gotu", sans-serif !important;
+    text-align: center !important;
+}
