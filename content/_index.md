@@ -58,11 +58,11 @@ Michael Miele is a human fork of a dragon named Nenekiri Bookwyrm. You may recog
 
 Alexandria Christina Leal, also known as Ellen, continues to do sys-side what she loved to do phys-side: engineer, write, and spend copious amounts of time either with her loved ones or on exceedingly long walks.
 
-She has found forking to be both liberating and challenging in pursuing her passions, and figures it is only a matter of time before she becomes a Dispersionista. She maintains several long running forks that sync up frequently, such as Unity#Lily (engineering), Unity#SC (Forging), and Unity#Jade(creative endeavours) among others.
+She has found forking to be both liberating and challenging in pursuing her passions, and figures it is only a matter of time before she becomes a Dispersionista. She maintains several long running forks that sync up frequently, such as Unity#Lily (engineering), Unity#SC (Forging), and Unity#Jade (creative endeavours) among others.
 
 In furry circles, she is known as Kimmy, and frequently makes use of forking to switch between a myriad<sup>(myriad, nice!)</sup> of species, with her primary forms being Kitsune and Snow Leopard. She has also been known to appear as a wolf, a skunk, a catbat<sup>(oh my!)</sup>, and more! She blames Madison Scott-Clary for the second item in that list.
 
-[*kitsune.gay*](https://kitsune.gay)
+[*www.kitsune.gay*](https://www.kitsune.gay)
 
 ### Thomas "Faux" Steele (Dispersionista) 
 
