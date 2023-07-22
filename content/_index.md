@@ -30,7 +30,7 @@ To split oneself among however many individuals, to let the mind drift and diver
 * "Sufficiently Advanced" *by Rob MacWolf*
 * "Genre Clade" *by Nathan "Domus Vocis" Hopp*
 * "Après un rêve" *by Madison Scott-Clary*
-* "Support Group for Anomalies in Forking"](/sgaf) *by Michael Miele*
+* "Support Group for Anomalies in Forking" *by Michael Miele*
 * "Cowboy" *by Alexandria Christina Leal*
 * "True Love Lies Within and Without" *by Thomas "Faux" Steele*
 * "The Big O" *by Evan Drake*
