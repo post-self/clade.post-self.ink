@@ -4,8 +4,8 @@
 ![Clade cover](/cover.png)
 
 <p class="buy">
-<a href="https://makyo-ink.square.site/product/clade-a-post-self-anthology/15?cp=true&sa=true&sbp=false&q=false" target="_blank">Pre-order paperback</a>
-<a href="https://makyo.itch.io/clade">Pre-order ebook</a>
+<a href="https://makyo-ink.square.site/product/clade-a-post-self-anthology/15?cp=true&sa=true&sbp=false&q=false" target="_blank">Order paperback</a>
+<a href="https://makyo.itch.io/clade">Order ebook</a>
 </p>
 
 > **Clade** *(n)* – <span class="ipa">/kleɪd/</span> – *post-self theory*  
@@ -27,8 +27,6 @@ To split oneself among however many individuals, to let the mind drift and diver
 * ["Cascade Failure"](/cascade-failure) *by Joel Kreissman*
 
 **Content Warnings:** "Après un rêve" contains surgery and death; "Support Group for Anomalies in Forking" contains alcohol abuse, body horror, a car accident and injuries, and medical debt; "Cowboy" contains manipulation, complex PTSD, emotional flashbacks, a severe panic attack, and mentions parental death; "She Who Haunts the Storm" contains depression, self-hate, self(?)-harm, coercion, intimidation, and suicidal ideation; "Earthbound" contains death and depression.
-
-*Coming August 1, 2023*
 
 ## About the authors
 
