@@ -185,4 +185,4 @@ And one day, the System could fail too. Some corruption in the data, power failu
 
 It wasn't enough for John. It hurt. Losing Liam hurt. But he could hold onto the idea of Liam. He'd said his goodbyes in his mind long ago. What they had now was a pale shadow, a love that no longer felt real. He loved Liam, but not enough to follow him, into that world, apparently. His world, this world, was enough, and John wanted to be here until the end.
 
-Everything had to end at some point.[]{#anchor}
+Everything had to end at some point.
