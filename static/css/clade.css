@@ -28,6 +28,7 @@ ul + p {
     margin-top: 1rem;
 }
 
+/*
 dt {
     font-size: 90%;
     font-style: italic;
@@ -44,6 +45,32 @@ dd {
     margin-left: 1rem;
     margin-bottom: 1rem;
 }
+*/
+
+.works dt {
+    background: linear-gradient(135deg, transparent 0.5rem, rgba(127, 127, 127, 0.2) 0) top left;
+}
+.works dd {
+    background: linear-gradient(315deg, transparent 0.5rem, rgba(127, 127, 127, 0.1) 0) bottom right;
+}
+.title ul {
+    text-align: left;
+}
+.title ul li {
+    margin: 0 0 0 2rem;
+}
+
+/*
+.buy a, body.dark-mode .buy a {
+    padding: 0.3rem 0.5rem;
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+    background: rgba(127, 127, 127, 0.2);
+    background: linear-gradient(135deg, transparent 0.5rem, rgba(127, 127, 127, 0.2) 0) top left,
+                linear-gradient(315deg, transparent 0.5rem, rgba(127, 127, 127, 0.2) 0) bottom right;
+}
+*/
 
 figure {
     margin: 1rem auto;

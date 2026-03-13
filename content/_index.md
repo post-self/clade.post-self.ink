@@ -15,18 +15,7 @@
 
 To split oneself among however many individuals, to let the mind drift and diverge, to feel the world from points of view not your own, and then let those memories crash down into you…well, it inspires a feeling best described as ‘heady’, to say the least.
 
-* ["Sufficiently Advanced"](/sufficiently-advanced) *by Rob MacWolf*
-* ["Genre Clade"](/genre-clade) *by Nathan "Domus Vocis" Hopp*
-* ["Après un rêve"](/apres-un-reve) *by Madison Scott-Clary*
-* ["Support Group for Anomalies in Forking"](/sgaf) *by Michael Miele*
-* ["Cowboy"](/cowboy) *by Alexandria Christina Leal*
-* ["True Love Lies Within and Without"](/true-love-lies-within-and-without) *by Thomas "Faux" Steele*
-* ["The Big O"](/the-big-o) *by Evan Drake*
-* ["She Who Haunts the Storm"](/she-who-haunts-the-storm) *by JS Hawthorne*
-* ["Earthbound"](/earthbound) *by Kergiby*
-* ["Cascade Failure"](/cascade-failure) *by Joel Kreissman*
-
-**Content Warnings:** "Après un rêve" contains surgery and death; "Support Group for Anomalies in Forking" contains alcohol abuse, body horror, a car accident and injuries, and medical debt; "Cowboy" contains manipulation, complex PTSD, emotional flashbacks, a severe panic attack, and mentions parental death; "She Who Haunts the Storm" contains depression, self-hate, self(?)-harm, coercion, intimidation, and suicidal ideation; "Earthbound" contains death and depression.
+{{< works corpus="works" collections="none" creators="none" >}}
 
 ## About the authors
 
